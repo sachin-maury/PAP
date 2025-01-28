@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class sumOfTwoPointer {
+public class twoPointer {
 
     public static void main(String[] args) {
         int [] arr = {20,10,5,-1,30,90};
